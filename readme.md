@@ -3,8 +3,8 @@
 $\color{red}{[199\ USD]}$
 
 ## React
-- Serverless SaaS <code>$\color{red}{[199\ USD]}$</code> https://serverless.page
-- Bedrock <code>$\color{red}{[0.88\ USD]}$</code> https://bedrock.mxstbr.com
+- Serverless SaaS <code> $\color{red}{[199\ USD]}$ </code> https://serverless.page
+- Bedrock $\color{red}{[0.88\ USD]}$ https://bedrock.mxstbr.com
 - Subscription Payments Starter <code>$\color{green}{[FREE]}$</code> https://github.com/vercel/nextjs-subscription-payments
 - OpenSaaS.sh <code>$\color{green}{[FREE]}$</code> [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=ultimate-saas-boilerplate)
 - BoilerCode <code>$\color{red}{[\$99 - \$119\ USD]}$</code> [https://boilercode.co/](https://boilercode.co/?utm_source=ultimate-saas-boilerplate)
