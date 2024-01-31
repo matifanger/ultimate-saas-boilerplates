@@ -5,7 +5,7 @@
 - Bedrock $\color{red}{[0.88\ USD]}$ [https://bedrock.mxstbr.com](https://bedrock.mxstbr.com)
 - Subscription Payments Starter $\color{green}{[FREE]}$ [https://github.com/vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)
 - OpenSaaS.sh $\color{green}{[FREE]}$ [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=ultimate-saas-boilerplate)
-- BoilerCode $\color{red}{[\$99\-\$119\ USD]}$ [https://boilercode.co/](https://boilercode.co/?utm_source=ultimate-saas-boilerplate)
+- BoilerCode $\color{red}{[\$99-\$119\ USD]}$ [https://boilercode.co/](https://boilercode.co/?utm_source=ultimate-saas-boilerplate)
 - Scale Safe $\color{red}{[420\ USD]}$ [https://scalesafe.app/](https://scalesafe.app/?utm_source=ultimate-saas-boilerplate&utm_medium=catalog)
 - NextJS 14 SaaS Starter with Lucia and Stripe $\color{green}{[FREE]}$ [https://github.com/juliankoehn/nextjs-saas-starter](https://github.com/juliankoehn/nextjs-saas-starter)
 - SaaStr $\color{green}{[FREE]}$ [https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate)
