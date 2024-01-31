@@ -11,7 +11,7 @@
 - SaaStr $\color{green}{[FREE]}$ [https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate)
 - ShipFast - [https://shipfa.st/](https://shipfa.st/)
 - StarterSaaS Node + Go $\color{green}{[FREE]}$ [https://www.startersaas.com/](https://www.startersaas.com/)
-- Gravity $\color{red}{[\$417 - \$537 - \$957\ USD]}$ [https://usegravity.app/](https://usegravity.app/)
+- Gravity $\color{red}{[\$417\ \$537\ \$957\ USD]}$ $\color{red}{[\$417 - \$537 - \$957\ USD]}$ [https://usegravity.app/](https://usegravity.app/)
 - SaaS Starter Kit $\color{green}{[FREE]}$ [https://github.com/boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit)
 - Supastarter $\color{red}{[349\ USD]}$ [https://supastarter.dev/](https://supastarter.dev/)
 - marblism $\color{purple}{[?]}$ [https://www.marblism.com/](https://www.marblism.com/)
