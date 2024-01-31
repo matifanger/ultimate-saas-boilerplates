@@ -1,7 +1,7 @@
 <h1 align="center">ULTIMATE SAAS BOILERPLATES</h1>
 
 ## React
-- Serverless SaaS <code style="color:red">[199 USD]</code> https://serverless.page
+- Serverless SaaS <code style="color : red">[199 USD]</code> https://serverless.page
 - Bedrock <code style="color:red">[0.88 USD]</code> https://bedrock.mxstbr.com
 - Subscription Payments Starter <code style="color:green">[FREE]</code> https://github.com/vercel/nextjs-subscription-payments
 - OpenSaaS.sh <code style="color:green">[FREE]</code> [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=ultimate-saas-boilerplate)
