@@ -1,6 +1,3 @@
-Sure, here is the modified text with the `<code>` tags replaced by the LaTeX code for coloring, which is `$${\color{red}Red}$$`:
-
-```markdown
 <h1 align="center">ULTIMATE SAAS BOILERPLATES</h1>
 
 ## React
