@@ -44,7 +44,7 @@
 - Djaodjin $\color{green}{[FREE]}$ [https://djaodjin.com](https://djaodjin.com)
 - Carrot Seed $\color{red}{[392\ EUR]}$ [https://www.cnc.io/en/seed](https://www.cnc.io/en/seed)
 - The SaaS boilerplate by Apptension $\color{green}{[FREE]}$ [https://www.apptension.com/saas-boilerplate](https://www.apptension.com/saas-boilerplate)
-- Vanty Starter Kit $\color{red}{[\$750 - \$1450\ USD]}$ [https://www.advantch.com](https://www.advantch.com)
+- Vanty Starter Kit $\color{red}{[750\ USD]}$ [https://www.advantch.com](https://www.advantch.com)
 - Saas Hammer $\color{orange}{[FREE - \$299 - \$749\ USD]}$ [https://saashammer.com](https://saashammer.com)
 - YaSaas $\color{green}{[FREE]}$ [https://github.com/roperi/yasaas](https://github.com/roperi/yasaas)
 - TheDevStarter $\color{red}{[49\ USD]}$ [https://thedevstarter.com](https://thedevstarter.com)
