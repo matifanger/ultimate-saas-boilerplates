@@ -45,7 +45,7 @@
 - Carrot Seed $\color{red}{[392\ EUR]}$ [https://www.cnc.io/en/seed](https://www.cnc.io/en/seed)
 - The SaaS boilerplate by Apptension $\color{green}{[FREE]}$ [https://www.apptension.com/saas-boilerplate](https://www.apptension.com/saas-boilerplate)
 - Vanty Starter Kit $\color{red}{[750\ USD]}$ [https://www.advantch.com](https://www.advantch.com)
-- Saas Hammer $\color{orange}{[FREE\ USD]}$ [https://saashammer.com](https://saashammer.com)
+- Saas Hammer $\color{green}{[FREE]}$ [https://saashammer.com](https://saashammer.com)
 - YaSaas $\color{green}{[FREE]}$ [https://github.com/roperi/yasaas](https://github.com/roperi/yasaas)
 - TheDevStarter $\color{red}{[49\ USD]}$ [https://thedevstarter.com](https://thedevstarter.com)
 - djangorocket $\color{green}{[FREE]}$ [https://github.com/ernestofgonzalez/djangorocket](https://github.com/ernestofgonzalez/djangorocket)
@@ -59,7 +59,7 @@
 
 ## Ruby on Rails
 - Bullet Train $\color{green}{[FREE]}$ [https://bullettrain.co](https://bullettrain.co)
-- Jumpstart Rails $\color{red}{[\$249 - \$749\ USD]}$ [https://jumpstartrails.com/](https://jumpstartrails.com/)
+- Jumpstart Rails $\color{red}{[249\ USD]}$ [https://jumpstartrails.com/](https://jumpstartrails.com/)
 - Sjabloon $\color{red}{[PAID]}$ [https://www.getsjabloon.com/](https://www.getsjabloon.com/)
 - Rails Tabler Starter $\color{green}{[FREE]}$ [https://github.com/tarunvelli/rails-tabler-starter](https://github.com/tarunvelli/rails-tabler-starter)
 
@@ -73,16 +73,16 @@
 - Graphile Starter $\color{green}{[FREE]}$ [https://github.com/graphile/starter](https://github.com/graphile/starter)
 - ALPack by Apptension $\color{green}{[FREE]}$ [https://github.com/apptension/ALPack](https://github.com/apptension/ALPack)
 - Sequelize $\color{green}{[FREE]}$ [https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger](https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger)
-- SaasRock $\color{red}{[\$149 - \$499 - \$998\ USD]}$ [https://saasrock.com](https://saasrock.com)
+- SaasRock $\color{red}{[149\ USD]}$ [https://saasrock.com](https://saasrock.com)
 
 ## PHP
 ### Laravel
-- Laravel Spark $\color{red}{[\$99 - \$199\ USD]}$ [https://spark.laravel.com](https://spark.laravel.com)
+- Laravel Spark $\color{red}{[99\ USD]}$ [https://spark.laravel.com](https://spark.laravel.com)
 - Electrik - Saas Starter Kit $\color{green}{[FREE]}$ [https://github.com/electrikhq/electrik](https://github.com/electrikhq/electrik)
 - SaaSWeb $\color{red}{[45\ USD]}$ [https://codecanyon.net/item/saasweb-laravel-58-vue-saas-starter-kit/24302103](https://codecanyon.net/item/saasweb-laravel-58-vue-saas-starter-kit/24302103)
-- Larakits $\color{green}{[\$99 - \$299\ USD]}$ [https://larakits.com/](https://larakits.com/)
-- SaaS Starter Kit $\color{red}{[\$299 - \$449\ USD]}$ [https://saasstarterkit.app](https://saasstarterkit.app)
-- Wave $\color{orange}{[FREE - \$15 - \$99\ USD]}$ [https://devdojo.com/wave](https://devdojo.com/wave)
+- Larakits $\color{green}{[99\ USD]}$ [https://larakits.com/](https://larakits.com/)
+- SaaS Starter Kit $\color{red}{[299\ USD]}$ [https://saasstarterkit.app](https://saasstarterkit.app)
+- Wave $\color{orange}{[FREE\ USD]}$ [https://devdojo.com/wave](https://devdojo.com/wave)
 - Tenancy $\color{green}{[FREE]}$ [https://tenancyforlaravel.com/saas-boilerplate](https://tenancyforlaravel.com/saas-boilerplate)
 - saas-boilerplate $\color{green}{[FREE]}$ [https://github.com/miracuthbert/saas-boilerplate](https://github.com/miracuthbert/saas-boilerplate)
 - Velocity $\color{green}{[FREE]}$ [https://pastaduck.gumroad.com/l/chbnv](https://pastaduck.gumroad.com/l/chbnv)
@@ -95,5 +95,5 @@
 - WPPB, plugin boilerplate generator $\color{green}{[FREE]}$ [https://wppb.me](https://wppb.me)
 
 ## .NET (ASP.NET Core / .NET 6+)
-- ASP.NET Zero $\color{red}{[\$2999 - \$4999 - \$9999\ USD]}$ [https://aspnetzero.com](https://aspnetzero.com)
+- ASP.NET Zero $\color{red}{[2999\ USD]}$ [https://aspnetzero.com](https://aspnetzero.com)
 - fullstackhero $\color{green}{[FREE]}$ [https://fullstackhero.net/dotnet-webapi-boilerplate/general/getting-started](https://fullstackhero.net/dotnet-webapi-boilerplate/general/getting-started)
