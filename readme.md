@@ -40,9 +40,9 @@
 
 ### Django
 - SaaSitive $\color{red}{[199\ USD]}$ [https://saasitive.com](https://saasitive.com)
-- SaaS Pegasus $\color{red}{[\$249 - \$449 - \$999\ USD]}$ [https://www.saaspegasus.com](https://www.saaspegasus.com)
+- SaaS Pegasus $\color{red}{[249\ USD]}$ [https://www.saaspegasus.com](https://www.saaspegasus.com)
 - Djaodjin $\color{green}{[FREE]}$ [https://djaodjin.com](https://djaodjin.com)
-- Carrot Seed $\color{red}{[\$392 - \$552 - \$792 EUR]}$ [https://www.cnc.io/en/seed](https://www.cnc.io/en/seed)
+- Carrot Seed $\color{red}{[392\ EUR]}$ [https://www.cnc.io/en/seed](https://www.cnc.io/en/seed)
 - The SaaS boilerplate by Apptension $\color{green}{[FREE]}$ [https://www.apptension.com/saas-boilerplate](https://www.apptension.com/saas-boilerplate)
 - Vanty Starter Kit $\color{red}{[\$750 - \$1450\ USD]}$ [https://www.advantch.com](https://www.advantch.com)
 - Saas Hammer $\color{orange}{[FREE - \$299 - \$749\ USD]}$ [https://saashammer.com](https://saashammer.com)
