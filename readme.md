@@ -68,7 +68,6 @@
 - SaaS Starter $\color{green}{[FREE]}$ [https://github.com/cedrickchee/saas-starter](https://github.com/cedrickchee/saas-starter)
 - SaaSgear $\color{green}{[FREE]}$ [https://github.com/JSLancerTeam/saasgear](https://github.com/JSLancerTeam/saasgear)
 - Nextacular $\color{green}{[FREE]}$ [https://nextacular.co](https://nextacular.co)
-
 - SaaS Boilerplate by Async Labs $\color{green}{[FREE]}$ [https://github.com/async-labs/saas](https://github.com/async-labs/saas)
 - Graphile Starter $\color{green}{[FREE]}$ [https://github.com/graphile/starter](https://github.com/graphile/starter)
 - ALPack by Apptension $\color{green}{[FREE]}$ [https://github.com/apptension/ALPack](https://github.com/apptension/ALPack)
